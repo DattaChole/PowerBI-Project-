@@ -17,3 +17,8 @@ The dataset used for this Power BI report can be downloaded from the link below:
 - How many Projects fall into each Process Rate category?
 
 - Which are the Top 10 most profitable Projects and what are their Descriptions?
+
+
+### 📊 Dashboard Preview
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/yourimage.png)
