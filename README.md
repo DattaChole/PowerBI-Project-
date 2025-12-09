@@ -26,6 +26,8 @@ The dataset used for this Power BI report can be downloaded from the link below:
 ### 🖼️ Dashboard View 2
 ![Dashboard Page 2]([https://raw.githubusercontent.com/USERNAME/REPO/main/image2.png](https://github.com/DattaChole/PowerBI-Project-/blob/main/Screenshot%202024-07-12%20161836.png)
 
+## Dashboard
+<img width="1397" height="735" alt="Screenshot 2024-07-12 155706" src="https://github.com/user-attachments/assets/a0504f70-0c7c-4310-af6a-4d2dcfc4cd5b" />
 
 
 
