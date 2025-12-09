@@ -2,6 +2,7 @@
 This Power BI dashboard provides a comprehensive analysis of organization-wide project performance. It helps understand the number of projects, cost trends, benefits, project phases, and profitability.
 The dashboard enables management to make informed decisions by visualizing project progress, performance rate, and financial outcomes.
 
-## Dataset used
-- <a herf = "[Project Management Dataset.csv](https://github.com/DattaChole/PowerBI-Project-/blob/main/Project%20Management%20Dataset.csv)"
+## 📊 Dataset
+The dataset used for this Power BI report can be downloaded from the link below:
 
+➡️ [Click here to download the dataset](PASTE-LINK-HERE)
