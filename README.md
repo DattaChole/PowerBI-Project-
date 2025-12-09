@@ -45,6 +45,15 @@ The dataset used for this Power BI report can be downloaded from the link below:
 <img width="1193" height="624" alt="Screenshot 2024-07-12 161836" src="https://github.com/user-attachments/assets/0d2bd65b-b70e-4c04-bc8a-68fc2404e992" />
 
 
+## 📈 Key Insights
+
+- Total project cost is **28M**, while total project benefit is **63M**, showing strong positive returns.
+- Most projects are in the **Explore, Implement, and Develop** phases.
+- The majority of projects fall within the **76–100%** completion rate category.
+- Top 7 projects contribute the highest share of overall profit.
+- Some departments have high cost but low profit, indicating optimization opportunities.
+- Year-wise trend shows benefits remaining consistent while costs decrease.
+
 
 
 
