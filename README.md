@@ -19,6 +19,25 @@ The dataset used for this Power BI report can be downloaded from the link below:
 - Which are the Top 10 most profitable Projects and what are their Descriptions?
 
 
-### 📊 Dashboard Preview
-
+## 📊 Dashboard Preview
+### 🖼️ Dashboard View 1
 ![Dashboard Screenshot]([https://raw.githubusercontent.com/USERNAME/REPO/main/yourimage.png](https://github.com/DattaChole/PowerBI-Project-/blob/main/Screenshot%202024-07-12%20155706.png?raw=true)
+
+### 🖼️ Dashboard View 2
+![Dashboard Page 2]([https://raw.githubusercontent.com/USERNAME/REPO/main/image2.png](https://github.com/DattaChole/PowerBI-Project-/blob/main/Screenshot%202024-07-12%20161836.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
