@@ -5,4 +5,4 @@ The dashboard enables management to make informed decisions by visualizing proje
 ## 📊 Dataset
 The dataset used for this Power BI report can be downloaded from the link below:
 
-➡️ [Click here to download the dataset]((https://github.com/DattaChole/PowerBI-Project-/blob/main/Project%20Management%20Dataset.csv))
+➡️ [Click here to download the dataset](https://github.com/DattaChole/PowerBI-Project-/blob/main/Project%20Management%20Dataset.csv)
