@@ -17,7 +17,25 @@ The dataset used for this Power BI report can be downloaded from the link below:
 - How many Projects fall into each Process Rate category?
 
 - Which are the Top 10 most profitable Projects and what are their Descriptions?
+## Process 
 
+1. **Data Preparation**
+   - Cleaned the dataset, fixed missing values, formatted cost/benefit fields.
+   - Created calculated columns for Profit, Completion %, and Rate Categories.
+
+2. **Data Modeling**
+   - Built a simple star-schema.
+   - Created DAX measures for Total Cost, Total Benefit, Total Projects, and Profit.
+
+3. **Dashboard Design**
+   - Added KPI cards for high-level metrics.
+   - Built visuals: Line chart (Cost vs Benefit by Year), Funnel (Project Phases), Bar (Top Projects), Donut (Process Rate), and a Detailed Table View.
+   - Added navigation buttons between Dashboard and Table View.
+
+4. **Insights**
+   - Identified top profitable projects.
+   - Analyzed department-wise cost & benefit trends.
+   - Compared project status, phases, and completion rates.
 
 
 ## Dashboard view 1
